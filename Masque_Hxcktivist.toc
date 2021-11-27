@@ -1,0 +1,8 @@
+## Interface: 90105
+## Title: Masque: |cffffffffHxcktivist|r
+## Notes: Hxcktivist skins for Masque.
+## Version: 1.0
+## Author: Hxcktivist
+## Dependencies: Masque
+
+Masque_Hxcktivist.lua
